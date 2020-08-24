@@ -1,0 +1,15 @@
+apiVersion: v2
+publisher: prettier
+name: prettier-vscode
+version: 5.1.3
+type: VS Code extension
+displayName: Prettier
+title: Prettier
+description: Prettier Formatter for Visual Studio Code
+icon: https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/5.1.3/1593711167065/Microsoft.VisualStudio.Services.Icons.Default
+repository: https://github.com/prettier/prettier-vscode/
+category: Other
+firstPublicationDate: "2020-07-03"
+spec:
+  extensions:
+    - https://github.com/prettier/prettier-vscode/releases/download/v5.1.3/prettier-vscode-5.1.3.vsix
