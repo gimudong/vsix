@@ -1,0 +1,26 @@
+[
+  {
+    "id": "coenraads/bracket-pair-colorizer",
+    "displayName": "Bracket Pair Colorizer",
+    "version": "1.0.61",
+    "type": "VS Code extension",
+    "name": "bracket-pair-colorizer",
+    "description": "A customizable extension for colorizing matching brackets.",
+    "publisher": "CoenraadS",
+    "links": {
+      "self": "/my-plugin-registry/coenraads/bracket-pair-colorizer/1.0.61/meta.yaml"
+    }
+  },
+  {
+    "description": "View a Git Graph of your repository, and perform Git actions from the graph.",
+    "displayName": "Git Graph",
+    "id": "mhutchie/vscode-git-graph/1.18.0",
+    "links": {
+      "self": "/my-plugin-registry/mhutchie/vscode-git-graph/1.18.0/meta.yaml"
+    },
+    "name": "vscode-git-graph",
+    "publisher": "mhutchie",
+    "type": "VS Code extension",
+    "version": "1.18.0"
+  }
+]
