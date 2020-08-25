@@ -4,7 +4,7 @@
     "displayName": "Prettier",
     "id": "prettier/prettier-vscode/5.1.3",
     "links": {
-      "self": "https://raw.githubusercontent.com/gimudong/vsix/master/meta.yaml"
+      "self": "/gimudong/vsix/master/meta.yaml"
     },
     "name": "prettier-vscode",
     "publisher": "prettier",
